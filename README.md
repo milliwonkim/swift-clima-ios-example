@@ -55,3 +55,4 @@ switch conditionID {
 # swift-clima-ios-example
 # swift-clima-ios-example
 # swift-clima-ios-example
+# swift-clima-ios-example
